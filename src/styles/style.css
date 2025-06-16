@@ -201,7 +201,7 @@ body {
 .status-badge {
   padding: 6px 14px;
   border-radius: 16px;
-  font-size: 1em;
+  font-size: 13px;
   font-weight: 600;
   letter-spacing: 0.5px;
   box-shadow: 0 1px 4px #2563eb22;
@@ -355,8 +355,8 @@ footer {
     padding: 0.5rem 0.2rem 0.5rem 0.2rem;
   }
   .student-photo {
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
   }
   .display-5 {
     font-size: 1.3rem;
@@ -367,6 +367,9 @@ footer {
   }
   .card-body {
     padding: 1rem 0.5rem;
+  }
+  #photo-section {
+    width: 80vw;
   }
 }
 
